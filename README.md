@@ -18,7 +18,6 @@ Shows the player avoiding the dark clouds, while collecting coins on the good cl
 
 Options Menu:
 -------------
-
 Allows the player to choose a certain difficulty!
 ![options](https://cloud.githubusercontent.com/assets/15184861/25163823/9ba637e6-2492-11e7-9450-68b2f47714dd.png)
 
