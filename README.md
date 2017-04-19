@@ -1,9 +1,12 @@
-#Introduction
+Introduction:
+-------------
 Hey guys! Here is my latest video game coding project that I created alongside a tutorial on StackSkills.com!
 
 The tutorial is called "Master Unity By Building 6 Fully Featured Games From Scratch"!
 
-#Screenshots
+Screenshots:
+------------
+
 Main menu features screen animations when all of the buttons come into the screen!
 ![mainmenu](https://cloud.githubusercontent.com/assets/15184861/25163822/9ba52b58-2492-11e7-9285-ce6e547c0ff5.png)
 
