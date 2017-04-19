@@ -7,7 +7,7 @@ The tutorial is called "Master Unity By Building 6 Fully Featured Games From Scr
 Main Menu:
 ------------
 
-Features screen animations when all of the buttons come into the screen!
+Default navigation for the user to easily get around the app which has entrace animations for the buttons in the menu.
 ![mainmenu](https://cloud.githubusercontent.com/assets/15184861/25163822/9ba52b58-2492-11e7-9285-ce6e547c0ff5.png)
 
 In Game:
