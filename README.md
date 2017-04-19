@@ -16,10 +16,10 @@ In Game:
 Shows the player avoiding the dark clouds, while collecting coins on the good clouds!
 ![ingame](https://cloud.githubusercontent.com/assets/15184861/25163821/9b97df84-2492-11e7-8721-33c49f771a06.png)
 
-Options Menu:
--------------
+In Game:
+--------
 
-Allows the player to choose a certain difficulty!
+Shows the player avoiding the dark clouds, while collecting coins on the good clouds!
 ![options](https://cloud.githubusercontent.com/assets/15184861/25163823/9ba637e6-2492-11e7-9450-68b2f47714dd.png)
 
 
