@@ -9,7 +9,7 @@ I plan on using this tutorial knowledge to get a better grasp of Unity and C# in
 Main Menu:
 ------------
 
-Default navigation for the user to easily get around the app which has entrace animations for the buttons in the menu, and screen fading animations when a new game is started!
+This page is a general main menu that allows the user to easily get around the app. Entrace animations are applied to each button which sail them across the screen upon opening the menu, and screen fading animations occur when a new game is started!
 
 ![mainmenu](https://cloud.githubusercontent.com/assets/15184861/25163822/9ba52b58-2492-11e7-9285-ce6e547c0ff5.png)
 
